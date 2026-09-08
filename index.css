@@ -12,7 +12,7 @@ body {
 
 #home-score,
 #guest-score {
-    background: #080001;
+    background: yellow;
     color: #F94F6D;
     font-size: 60px;
     width: 120px;
